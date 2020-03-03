@@ -1,0 +1,25 @@
+p {
+  font-size: 14px;
+  color: white;
+}
+h1 {
+  font-size: 30px;
+  color: white;
+  background-color: DodgerBlue;
+  text-align: center;
+  text-decoration: underline;
+}
+body {
+  background-color: black;
+}
+quote {
+    color: white;
+}
+img {
+  background-color: lightblue;
+  width: 300px;
+  border: 15px solid white;
+  padding: 30px;
+  margin: 10px;
+}
+ 
